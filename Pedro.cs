@@ -1,6 +1,6 @@
 
 using System;
-class Atv1
+class Pedro
 {
     static void Main()
     {
