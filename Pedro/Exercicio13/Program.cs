@@ -9,10 +9,10 @@
         p = double.Parse(Console.ReadLine());
         if ( p > s * 0.2)
         {
-            Console.Write("O salário não pode ser concedido");
+            Console.Write($"O salário não pode ser concedido");
         }
         else
         {
-            Console.Write("O salário pode ser concedido");
+            Console.Write($"O salário pode ser concedido");
         }
         }}

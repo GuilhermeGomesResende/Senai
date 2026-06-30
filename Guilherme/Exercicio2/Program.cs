@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program{
+    static void Main(){
+      double numero = 0;
+      Console.Write("Escreva seu numero: ");
+      numero = double.Parse(Console.ReadLine());
+        Console.Write ($"COm reajuste seu valor é{numero*1.10}");
+
+
+
+    }
+
+}
+
+
