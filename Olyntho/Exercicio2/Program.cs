@@ -1,5 +1,4 @@
-using System;
-class Oly
+﻿class Program
 {
     static void Main()
     {

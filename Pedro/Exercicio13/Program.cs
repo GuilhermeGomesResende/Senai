@@ -1,6 +1,4 @@
-
-using System;
-class Pedro
+﻿class Program
 {
     static void Main()
     {

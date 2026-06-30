@@ -1,5 +1,4 @@
-﻿using System;
-class Atividade25{
+﻿class Program{
     static void Main(){
         double salario = 0;
 
