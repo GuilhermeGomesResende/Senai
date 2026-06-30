@@ -1,5 +1,5 @@
-using System;
-class Kev
+﻿
+class Program
 {
 static void Main()
     {
