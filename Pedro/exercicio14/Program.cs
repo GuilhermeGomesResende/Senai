@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-﻿class Program
+﻿﻿
+class Atv17
 {
     static void Main()
     {
         double i;
-        Console.WriteLine("Insira o índice de poluição : ");
+        Console.Write("Insira o índice de poluição : ");
         i = double.Parse(Console.ReadLine());
         if (i < 0.25)
         {
@@ -26,9 +26,3 @@
         {
             Console.Write("Informação inválida");
         }}}
-
-
-
-=======
-﻿
->>>>>>> 86b73c107b22baf485bb3025e6d51588d300fa37
