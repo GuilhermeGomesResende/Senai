@@ -1,6 +1,4 @@
-
-using System;
-class Atv1
+﻿class Program
 {
     static void Main()
     {

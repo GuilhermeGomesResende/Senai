@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿class Program
 {
     static void Main()
@@ -28,3 +29,6 @@
 
 
 
+=======
+﻿
+>>>>>>> 86b73c107b22baf485bb3025e6d51588d300fa37
